@@ -5,13 +5,14 @@
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "ios": "expo start --ios",
+    "ios": "npx expo run:ios",
     "web": "expo start --web",
     "lint": "expo lint",
     "build": "eas build --platform ios --profile ios-simulator",
     "build:configure": "eas build:configure",
     "submit": "eas submit --platform ios",
-    "update": "eas update --channel production"
+    "update": "eas update --channel production",
+    "android": "expo run:android"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.1.0",
