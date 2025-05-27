@@ -50,7 +50,7 @@
     },
     "owner": "evieperren",
     "runtimeVersion": {
-      "policy": "appVersion"
+      "policy": "1.5.11"
     },
     "updates": {
       "url": "https://u.expo.dev/f92390b8-5563-4f27-a15f-e3359748af9a"
