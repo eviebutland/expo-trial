@@ -9,9 +9,9 @@
       "distribution": "internal",
       "channel": "development"
     },
-    "preview": {
+    "staging": {
       "distribution": "internal",
-      "channel": "preview"
+      "channel": "staging"
     },
     "production": {
       "autoIncrement": true,
